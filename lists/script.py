@@ -12,6 +12,6 @@ for x in myList:
     print(x)
 
 # Exercise
-names = ["John", "Eric", "Jessica"]
+names = ['John', 'Eric', 'Jessica']
 
-print("The second name on the names list is %s." % names[1])
+print('The second name on the names list is %s.' % names[1])
