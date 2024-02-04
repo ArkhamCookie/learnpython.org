@@ -10,7 +10,7 @@ Following along with learnpython.org's tutorial.
 - [Variables and Types](./variables+types/)
 - [Lists](./lists/)
 - Basic Operators
-- String Formatting
+- [String Formatting](./string-formatting/)
 - Basic String Operations
 - Conditions
 - Loops
