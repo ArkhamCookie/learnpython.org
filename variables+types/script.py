@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Numebrs
 myInt = 7
 print(myInt)
