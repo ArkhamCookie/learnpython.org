@@ -9,7 +9,7 @@ Following along with learnpython.org's tutorial.
 - [Hello World](./hello-world/)
 - [Variables and Types](./variables+types/)
 - [Lists](./lists/)
-- Basic Operators
+- [Basic Operators](./basic-operators/)
 - [String Formatting](./string-formatting/)
 - Basic String Operations
 - Conditions
