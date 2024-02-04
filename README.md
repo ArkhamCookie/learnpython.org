@@ -6,9 +6,9 @@ Following along with learnpython.org's tutorial.
 
 ### Learn the Basics
 
-- Hello World
-- Variables and Types
-- Lists
+- [Hello World](./hello-world/)
+- [Variables and Types](./variables+types/)
+- [Lists](./lists/)
 - Basic Operators
 - String Formatting
 - Basic String Operations
