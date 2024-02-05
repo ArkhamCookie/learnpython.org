@@ -11,7 +11,7 @@ Following along with learnpython.org's tutorial.
 - [Lists](./lists/)
 - [Basic Operators](./basic-operators/)
 - [String Formatting](./string-formatting/)
-- Basic String Operations
+- [Basic String Operations](./basic-string-operations/)
 - Conditions
 - Loops
 - Functions
