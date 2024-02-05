@@ -12,8 +12,8 @@ Following along with learnpython.org's tutorial.
 - [Basic Operators](./basic-operators/)
 - [String Formatting](./string-formatting/)
 - [Basic String Operations](./basic-string-operations/)
-- Conditions
-- Loops
+- [Conditions](./conditions/)
+- [Loops](./loops/)
 - Functions
 - Classes and Objects
 - Dictionaries
