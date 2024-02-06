@@ -6,7 +6,7 @@ Following along with learnpython.org's tutorial.
 
 ### Learn the Basics
 
-- [Hello World](./hello-world/)
+- [Hello World](lists/hello-world)
 - [Variables and Types](./variables+types/)
 - [Lists](./lists/)
 - [Basic Operators](./basic-operators/)
@@ -16,7 +16,7 @@ Following along with learnpython.org's tutorial.
 - [Loops](./loops/)
 - [Functions](./functions/)
 - [Classes and Objects](./classes+objects/)
-- Dictionaries
+- [Dictionaries](./dictionaries/)
 - Modules and Packages
 
 <!-- ### Data Science Tutorials -->
