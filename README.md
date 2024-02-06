@@ -14,7 +14,7 @@ Following along with learnpython.org's tutorial.
 - [Basic String Operations](./basic-string-operations/)
 - [Conditions](./conditions/)
 - [Loops](./loops/)
-- Functions
+- [Functions](./functions/)
 - Classes and Objects
 - Dictionaries
 - Modules and Packages
