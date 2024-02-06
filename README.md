@@ -15,7 +15,7 @@ Following along with learnpython.org's tutorial.
 - [Conditions](./conditions/)
 - [Loops](./loops/)
 - [Functions](./functions/)
-- Classes and Objects
+- [Classes and Objects](./classes+objects/)
 - Dictionaries
 - Modules and Packages
 
